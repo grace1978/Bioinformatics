@@ -28,3 +28,5 @@
 | ------------- |:-------------:| --------------------------------:|
 | Week1-5       | Linus (bash)  | take classes, tutorial, practice |
 | Week6-16      | R             | take classes, tutorial, practice |
+| Week11-16     | Python        | take classes, tutorial, practice |
+
